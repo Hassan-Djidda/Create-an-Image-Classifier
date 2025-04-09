@@ -44,11 +44,11 @@ def data_loader(image_path):
     
 #My training loop function and print the result
 
-def train_funct(epochs=30, hidden_units=512, lr_rate=0.001,  model='densenet121', gpu='cpu', data_dir, save_dir=False):
+def train_funct(epochs=30, hidden_units=512, lr_rate=0.001,  model='resNet50', gpu='cpu', data_dir, save_dir=False):
     #Defining and transfering the model into the gpu or cpu
     
     device = gpu
-    model = densenet121
+    model = resNet50
     model.to(device)
     
     #Freeze the parameters of the model and set new parameters

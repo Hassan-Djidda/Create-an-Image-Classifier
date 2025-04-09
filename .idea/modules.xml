@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../ML-FUNDAMENTALS/PROJECT/Image-Classifier-project/.idea/Image-Classifier-project.iml" filepath="$PROJECT_DIR$/../../ML-FUNDAMENTALS/PROJECT/Image-Classifier-project/.idea/Image-Classifier-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Image-Classifier-to-Identify-Flower-Breeds.iml" filepath="$PROJECT_DIR$/.idea/Image-Classifier-to-Identify-Flower-Breeds.iml" />
     </modules>
   </component>

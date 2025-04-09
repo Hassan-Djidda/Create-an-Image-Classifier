@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/anaconda3" project-jdk-type="Python SDK" />
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (Image-Classifier-to-Identify-Flower-Breeds)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Image-Classifier-to-Identify-Flower-Breeds" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
